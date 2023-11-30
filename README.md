@@ -21,7 +21,7 @@ The resources used are:
 
 <h2>Software</h2>
 
-The software part of the project was developed on a MacBook Pro M1. NeoVim was used as a text editor for the programming part and the system terminal to install the operating system and compile the code on the card.
+The software part of the project was developed on a MacBook Pro M1. NeoVim was used as a text editor for the programming part and the system terminal was used to install the operating system and compile the code on the card.
 
 The software used are:
   - Mecrisp Stellaris
