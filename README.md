@@ -1,4 +1,4 @@
-# Plant-water-assistant-with-Nucleo-64-and-Forth
+# Plant Water Assistant With Nucleo64 and Forth
 
 <img src="/setup.jpg" width="600">
 
