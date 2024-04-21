@@ -2,11 +2,11 @@
 
 <img src="/setup.jpg" width="600">
 
-The aim of the project is to create an application that displays the percentage of soil moisture in a plant, indicating to the user when to water their plant.
+The aim of this project is to create an application that displays the percentage of soil moisture in a plant, indicating to the user when to water their plant.
 
 <h2>Hardware</h2>
 
-The hardware used are:
+Hardware used:
   - Nucleo-64 microcontroller, NUCLEO-F446RE STM32 STMicroelectronics
   - Analog soil moisture sensor, ICStation 3274
   - LCD display 1602, AZDelivery HD44780
@@ -15,7 +15,7 @@ The hardware used are:
   - Jumper cables
   - Mini-USB cable with charger
   
-The resources used are:
+Resources:
   - The Reference Manual R0390 (en.DM00135183.pdf), in particular Chapter 13
   - The slides provided by the Professor regarding the Nucleo-64 STM32F446 and the 16x02 LCD display
 
@@ -23,7 +23,7 @@ The resources used are:
 
 The software part of the project was developed on a MacBook Pro M1. NeoVim was used as a text editor for the programming part and the system terminal was used to install the operating system and compile the code on the card.
 
-The software used are:
+Software used:
   - Mecrisp Stellaris
   - Stlink (STMicroelectronics)
  
