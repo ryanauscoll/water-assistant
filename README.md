@@ -29,7 +29,7 @@ Software used:
  
 <h2>Code</h2>
 
-Have been used various source codes provided by Professor to write the application:
+Various source codes have been provided by the Professor to write the application:
   - nucle64-STM32F446RE-HAL.f for the first HAL (Hardware Abstraction Layer)
   - arduino.f to use the PIN references of the Arduino board
   - LCD-1602.f for connection with the LCD display and the definition of personalized characters
